@@ -1,4 +1,4 @@
-# Docker file for deploying warfile on tomcat test branch
+# Docker file for deploying warfile on tomcat test branch-branchtest
 
 FROM tomcat:latest
 MAINTAINER javed.mushrif@mastek.com
