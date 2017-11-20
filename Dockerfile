@@ -1,4 +1,4 @@
-# Docker file for deploying warfile on tomcat
+# Docker file for deploying warfile on tomcat test
 
 FROM tomcat:latest
 MAINTAINER javed.mushrif@mastek.com
