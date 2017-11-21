@@ -1,4 +1,3 @@
-# Docker file for deploying warfile on tomcat test
 # Docker file for deploying warfile on tomcat test branch-branchtest
 
 FROM tomcat:latest
